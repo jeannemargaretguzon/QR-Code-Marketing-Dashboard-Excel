@@ -1,6 +1,9 @@
 # QR Code Marketing Dashboard
 
-Project SPARTA's SP401
+Project Smarter Philippines through Data Analytics, R&D, Training, and Adoption (SPARTA) </br>
+Dashboards and Drill-Down Analytics SP401 </br>
+
+### Introduction
 
 This interactive QR Code Dashboard offers a clear view of marketing performance for the year 2016. With a month filter that interacts with all key performance indicators (KPIs), users can easily drill down into the data. 
 
